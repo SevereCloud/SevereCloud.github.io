@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "io.github.severecloud.twa",
+                   "sha256_cert_fingerprints": ["71:AA:CE:3D:DD:38:95:E5:69:FE:F0:D1:F6:A8:B3:EC:EF:83:82:84:1B:40:F4:C4:D1:AA:68:3C:F3:65:09:C2"] }
+    }]
